@@ -1,5 +1,4 @@
 # libft
-Introduction
 Programming in C is a very laborious activity when you do not have access to
 all these little usual very practical functions. This is why we offer you
 through this project to take the time to rewrite these functions, to understand them and
